@@ -20,6 +20,8 @@ class DatabaseSeeder extends Seeder
             NasdaqListedCompaniesTableSeeder::class,
             SAndP500CompaniesTableSeeder::class,
             WorldCitiesTableSeeder::class,
+            TaiwanHolidaysTableSeeder::class,
+            TaiwanZipCodesTableSeeder::class,
         ]);
     }
 }
