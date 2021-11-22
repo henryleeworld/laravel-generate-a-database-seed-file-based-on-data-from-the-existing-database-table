@@ -15,10 +15,10 @@ class CreateTaiwanZipCodesTable extends Migration
     {
         Schema::create('taiwan_zip_codes', function (Blueprint $table) {
             $table->integer('zip_code');
-            $table->string('city', 100);
-            $table->string('area', 100);
-            $table->string('road', 100)->nullable();
-            $table->string('scope', 100)->nullable();
+            $table->string('city', 3);
+            $table->string('area', 4);
+            $table->string('road', 15);
+            $table->string('scope', 23);
         });
     }
 
