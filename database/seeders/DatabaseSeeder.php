@@ -23,6 +23,7 @@ class DatabaseSeeder extends Seeder
             WorldCitiesTableSeeder::class,
             TaiwanHolidaysTableSeeder::class,
             TaiwanZipCodesTableSeeder::class,
+            TaiwanRestaurantsTableSeeder::class,
             TaiwanMovieTheatersTableSeeder::class,
         ]);
     }
