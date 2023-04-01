@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
             TaiwanRestaurantsTableSeeder::class,
             TaiwanMovieTheatersTableSeeder::class,
             TaiwanFinancialInstitutionsTableSeeder::class,
+            TaiwanContractedMedicalFacilitiesTableSeeder::class,
         ]);
     }
 }
