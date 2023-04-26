@@ -14,6 +14,7 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             AirportsTableSeeder::class,
+            AirlinesTableSeeder::class,
             CountriesTableSeeder::class,
             CurrenciesTableSeeder::class,
             NasdaqListedCompaniesTableSeeder::class,
