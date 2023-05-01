@@ -16,6 +16,7 @@ class DatabaseSeeder extends Seeder
             AirportsTableSeeder::class,
             AirlinesTableSeeder::class,
             CountriesTableSeeder::class,
+            CountriesInformationTableSeeder::class,
             CurrenciesTableSeeder::class,
             NasdaqListedCompaniesTableSeeder::class,
             SAndP500CompaniesTableSeeder::class,
