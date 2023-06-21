@@ -28,6 +28,7 @@ class DatabaseSeeder extends Seeder
             TaiwanFinancialInstitutionsTableSeeder::class,
             TaiwanContractedMedicalFacilitiesTableSeeder::class,
             TaiwanEntertainmentSoftwareTableSeeder::class,
+            TaiwanEvacuationSheltersTableSeeder::class,
         ]);
     }
 }
