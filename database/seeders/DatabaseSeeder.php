@@ -29,6 +29,7 @@ class DatabaseSeeder extends Seeder
             TaiwanContractedMedicalFacilitiesTableSeeder::class,
             TaiwanEntertainmentSoftwareTableSeeder::class,
             TaiwanEvacuationSheltersTableSeeder::class,
+            TaiwanPoliticalPartiesTableSeeder::class,
         ]);
     }
 }
