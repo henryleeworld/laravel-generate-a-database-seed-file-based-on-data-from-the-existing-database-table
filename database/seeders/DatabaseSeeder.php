@@ -32,6 +32,7 @@ class DatabaseSeeder extends Seeder
             TaiwanPoliceStationsTableSeeder::class,
             TaiwanSpeedCamerasTableSeeder::class,
             TaiwanPoliticalPartiesTableSeeder::class,
+            TaiwanBuskersTableSeeder::class,
         ]);
     }
 }
