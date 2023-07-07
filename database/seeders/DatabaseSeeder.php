@@ -25,6 +25,7 @@ class DatabaseSeeder extends Seeder
             TaiwanZipCodesTableSeeder::class,
             TaiwanRestaurantsTableSeeder::class,
             TaiwanMovieTheatersTableSeeder::class,
+            TaiwanMuseumsTableSeeder::class,
             TaiwanFinancialInstitutionsTableSeeder::class,
             TaiwanContractedMedicalFacilitiesTableSeeder::class,
             TaiwanCampsitesTableSeeder::class,
@@ -35,6 +36,7 @@ class DatabaseSeeder extends Seeder
             TaiwanSpeedCamerasTableSeeder::class,
             TaiwanPoliticalPartiesTableSeeder::class,
             TaiwanBuskersTableSeeder::class,
+            TaiwanVegetarianRestaurantsTableSeeder::class,
         ]);
     }
 }
