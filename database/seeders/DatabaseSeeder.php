@@ -37,6 +37,7 @@ class DatabaseSeeder extends Seeder
             TaiwanPoliticalPartiesTableSeeder::class,
             TaiwanBuskersTableSeeder::class,
             TaiwanVegetarianRestaurantsTableSeeder::class,
+            TaiwanFuneralFacilitiesTableSeeder::class,
         ]);
     }
 }
