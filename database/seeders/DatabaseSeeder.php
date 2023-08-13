@@ -38,6 +38,7 @@ class DatabaseSeeder extends Seeder
             TaiwanBuskersTableSeeder::class,
             TaiwanVegetarianRestaurantsTableSeeder::class,
             TaiwanFuneralFacilitiesTableSeeder::class,
+            TaiwanGolfCoursesTableSeeder::class,
         ]);
     }
 }
