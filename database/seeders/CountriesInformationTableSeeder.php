@@ -3869,7 +3869,7 @@ class CountriesInformationTableSeeder extends Seeder
                 "time_range" => "較台灣晚12小時",
                 "resident" => "無，由我國駐聖克里斯多福及尼維斯大使館兼轄",
                 "national_flag" =>
-                    "國旗由五色三角形組成。靠旗杆一邊和旗飛角一邊為兩個紅色三角形的直角邊。紅色三角形另兩條直條邊構成旗地下方的長邊。兩個紅色三角形的斜邊和旗地上方平行長邊構成大三角形，由黑、藍、白三色組成，黑色部分中間是半輪金黃色的太陽。　國徽中心圖案為盾徽。盾面上半部為冉冉升起的旭日，象徵該島國人民的獨立、自由；下半部白、藍相間的波紋代表加勒比海，窯塔象徵該國發達的製糖工業。盾徽左側為牝鹿和甘蔗，右側是牡鹿和龍舌蘭；上端有一隻菠蘿和木槿屬植物花；下端的綬帶上寫著「人人全力以赴，方能取得勝利」。",
+                    "國旗由五色三角形組成。靠旗杆一邊和旗飛角一邊為兩個紅色三角形的直角邊。紅色三角形另兩條直條邊構成旗地下方的長邊。兩個紅色三角形的斜邊和旗地上方平行長邊構成大三角形，由黑、藍、白三色組成，黑色部分中間是半輪金黃色的太陽。國徽中心圖案為盾徽。盾面上半部為冉冉升起的旭日，象徵該島國人民的獨立、自由；下半部白、藍相間的波紋代表加勒比海，窯塔象徵該國發達的製糖工業。盾徽左側為牝鹿和甘蔗，右側是牡鹿和龍舌蘭；上端有一隻菠蘿和木槿屬植物花；下端的綬帶上寫著「人人全力以赴，方能取得勝利」。",
                 "area_name" => "拉丁美洲及加勒比海地區",
                 "area_name_in_en" => "Latin America and Caribbean",
             ],
@@ -4198,7 +4198,7 @@ class CountriesInformationTableSeeder extends Seeder
                 "national_day" => "9月15日",
                 "join_un_day" => "1945年10月24日",
                 "area_size" =>
-                    "130,668平方公里　(約為台灣面積之3.6倍，係中美洲面積最大之國家，其中9,240平方公里為湖泊)",
+                    "130,668平方公里(約為台灣面積之3.6倍，係中美洲面積最大之國家，其中9,240平方公里為湖泊)",
                 "geographic" =>
                     "北與宏都拉斯接壤，南與哥斯大黎加交界，東瀕加勒比海，西臨太平洋，在北緯11度與15度間。",
                 "religion" => "天主教",
@@ -6278,7 +6278,7 @@ class CountriesInformationTableSeeder extends Seeder
                 "bilaterial_relations" => null,
                 "main_bounds" => "斯里蘭卡盧比(LKR)",
                 "exchange_rate" =>
-                    "1美元=363.18盧比(LKR) (2022.12.14 updated)（詳細匯率資訊建議至https://www.cbsl.gov.lk/en/rates-and-indicators/exchange-rates　網站查詢）",
+                    "1美元=363.18盧比(LKR) (2022.12.14 updated)（詳細匯率資訊建議至https://www.cbsl.gov.lk/en/rates-and-indicators/exchange-rates網站查詢）",
                 "flag_url_link" =>
                     "https://ws.mofa.gov.tw/001/Upload/OldFile/Sites/FlagUrlLink/198ff30e-0fe5-4127-872e-e4c3906960b5.gif",
                 "is_diplomatic" => 0,
@@ -10534,8 +10534,8 @@ class CountriesInformationTableSeeder extends Seeder
                     "2019年萬那杜歲入編列3.61億美元，支出約2.97億美元。",
                 "export_value" => "0.58億美元(2019年)",
                 "import_value" => "進口4億美元(2019年)",
-                "export_item" => "椰乾　牛肉　可可　木材　卡瓦胡椒　咖啡",
-                "import_item" => "機械　食品　燃料",
+                "export_item" => "椰乾、牛肉、可可、木材、卡瓦胡椒、咖啡",
+                "import_item" => "機械、食品、燃料",
                 "main_export_countries" =>
                     "歐盟、日本、澳洲、紐西蘭、巴布亞紐幾內亞等國(2019年)。",
                 "main_import_countries" =>
@@ -11358,7 +11358,7 @@ class CountriesInformationTableSeeder extends Seeder
                 "bilaterial_relations" => null,
                 "main_bounds" => "歐元",
                 "exchange_rate" =>
-                    "歐元匯兌台幣約30.87(2022年4月) (詳細匯率資訊建議至臺灣銀行：　（https://rate.bot.com.tw/xrt?Lang=zh-TW）或兆豐商銀（https://www.megabank.com.tw/personal/foreign-service/forex）網站查詢)",
+                    "歐元匯兌台幣約30.87(2022年4月) (詳細匯率資訊建議至臺灣銀行：（https://rate.bot.com.tw/xrt?Lang=zh-TW）或兆豐商銀（https://www.megabank.com.tw/personal/foreign-service/forex）網站查詢)",
                 "flag_url_link" =>
                     "https://ws.mofa.gov.tw/001/Upload/OldFile/Sites/FlagUrlLink/23bcbac1-ade6-447f-b669-b6f6b6a00293.GIF",
                 "is_diplomatic" => 0,
@@ -12847,7 +12847,7 @@ class CountriesInformationTableSeeder extends Seeder
                 "bilaterial_relations" => null,
                 "main_bounds" => "盧菲亞(Rufiyaa)",
                 "exchange_rate" =>
-                    "Maldivian Rufiyaa (MVR) (Rf], 1 USD = 15.38 Rufiyaa　(2022年11月17日)（詳細匯率資訊建議至http://www.mma.gov.mv/#/statistics/exchangerates　網站查詢）",
+                    "Maldivian Rufiyaa (MVR) (Rf], 1 USD = 15.38 Rufiyaa(2022年11月17日)（詳細匯率資訊建議至http://www.mma.gov.mv/#/statistics/exchangerates網站查詢）",
                 "flag_url_link" =>
                     "https://ws.mofa.gov.tw/001/Upload/OldFile/Sites/FlagUrlLink/495dd2df-6031-45f2-a5b5-410ea303d192.gif",
                 "is_diplomatic" => 0,

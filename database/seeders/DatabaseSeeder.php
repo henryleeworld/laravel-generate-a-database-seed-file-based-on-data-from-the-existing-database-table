@@ -36,6 +36,7 @@ class DatabaseSeeder extends Seeder
             TaiwanSpeedCamerasTableSeeder::class,
             TaiwanPoliticalPartiesTableSeeder::class,
             TaiwanBuskersTableSeeder::class,
+            TaiwanBuskerPerformanceVenuesTableSeeder::class,
             TaiwanVegetarianRestaurantsTableSeeder::class,
             TaiwanFuneralFacilitiesTableSeeder::class,
             TaiwanGolfCoursesTableSeeder::class,

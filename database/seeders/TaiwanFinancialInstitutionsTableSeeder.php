@@ -53424,7 +53424,7 @@ class TaiwanFinancialInstitutionsTableSeeder extends Seeder
                 "address" =>
                     "2-7-1 Nishi Shinjyuku, Shinjyuku-Ku, Tokyo, 163-0710, Japan",
                 "telephone" => "81-3-5339-5321",
-                "person_in_charge" => "猿渡　幸太郎",
+                "person_in_charge" => "猿渡幸太郎",
                 "updated_at" => "2016-02-01",
                 "url" => null,
             ],
