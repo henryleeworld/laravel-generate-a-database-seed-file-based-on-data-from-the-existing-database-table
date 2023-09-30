@@ -13,8 +13,8 @@
     },
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
-        "laravel/pint": "^1.11",
-        "laravel/sail": "^1.23",
+        "laravel/pint": "^1.12",
+        "laravel/sail": "^1.24",
         "mockery/mockery": "^1.6.6",
         "nunomaduro/collision": "^7.8",
         "orangehill/iseed": "^3.0",
