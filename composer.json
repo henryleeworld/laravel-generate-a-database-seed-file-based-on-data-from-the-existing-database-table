@@ -15,7 +15,7 @@
         "fakerphp/faker": "^1.23.0",
         "laravel/pint": "^1.13",
         "laravel/sail": "^1.26",
-        "mockery/mockery": "^1.6.6",
+        "mockery/mockery": "^1.6.7",
         "nunomaduro/collision": "^7.10",
         "orangehill/iseed": "^3.0",
         "phpunit/phpunit": "^10.5",
