@@ -13,7 +13,7 @@ class TaiwanHolidaysTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_holidays')->delete();
         DB::table('taiwan_holidays')->insert([

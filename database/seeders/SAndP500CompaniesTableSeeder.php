@@ -13,7 +13,7 @@ class SAndP500CompaniesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('s_and_p_500_companies')->delete();
         

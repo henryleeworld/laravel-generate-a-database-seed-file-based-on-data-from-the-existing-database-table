@@ -13,7 +13,7 @@ class TaiwanGolfCoursesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_golf_courses')->delete();
         DB::table('taiwan_golf_courses')->insert([

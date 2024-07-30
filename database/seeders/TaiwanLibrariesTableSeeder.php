@@ -13,7 +13,7 @@ class TaiwanLibrariesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_libraries')->delete();       
         DB::table('taiwan_libraries')->insert([

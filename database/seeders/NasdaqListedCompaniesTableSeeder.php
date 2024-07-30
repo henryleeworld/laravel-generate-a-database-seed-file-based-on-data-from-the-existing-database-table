@@ -13,7 +13,7 @@ class NasdaqListedCompaniesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('nasdaq_listed_companies')->delete();
         

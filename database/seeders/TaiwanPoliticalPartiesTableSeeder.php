@@ -13,7 +13,7 @@ class TaiwanPoliticalPartiesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_political_parties')->delete();  
         DB::table('taiwan_political_parties')->insert([

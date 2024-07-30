@@ -13,7 +13,7 @@ class TaiwanSpeedCamerasTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_speed_cameras')->delete();
         DB::table('taiwan_speed_cameras')->insert([

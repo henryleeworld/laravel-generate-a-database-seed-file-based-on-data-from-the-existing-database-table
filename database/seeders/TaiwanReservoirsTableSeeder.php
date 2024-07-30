@@ -13,7 +13,7 @@ class TaiwanReservoirsTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_reservoirs')->delete();  
         DB::table('taiwan_reservoirs')->insert([

@@ -8,10 +8,8 @@ return new class extends Migration
 {
     /**
      * Run the migrations.
-     *
-     * @return void
      */
-    public function up()
+    public function up(): void
     {
         Schema::create('taiwan_contracted_medical_facilities', function (Blueprint $table) {
             $table->string('id', 10)->primary()->comment('醫事機構代碼');
@@ -32,10 +30,8 @@ return new class extends Migration
 
     /**
      * Reverse the migrations.
-     *
-     * @return void
      */
-    public function down()
+    public function down(): void
     {
         Schema::dropIfExists('taiwan_contracted_medical_facilities');
     }

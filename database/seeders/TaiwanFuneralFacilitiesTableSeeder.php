@@ -13,7 +13,7 @@ class TaiwanFuneralFacilitiesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_funeral_facilities')->delete();   
         DB::table('taiwan_funeral_facilities')->insert([

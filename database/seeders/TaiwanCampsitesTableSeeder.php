@@ -13,7 +13,7 @@ class TaiwanCampsitesTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_campsites')->delete(); 
         DB::table('taiwan_campsites')->insert([

@@ -13,7 +13,7 @@ class TaiwanMovieTheatersTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table('taiwan_movie_theaters')->delete();
         DB::table('taiwan_movie_theaters')->insert([

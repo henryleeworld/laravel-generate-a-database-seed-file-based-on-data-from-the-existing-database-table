@@ -12,7 +12,7 @@ class TaiwanVegetarianRestaurantsTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
+    public function run(): void
     {
         DB::table("taiwan_vegetarian_restaurants")->delete();
         DB::table("taiwan_vegetarian_restaurants")->insert([
