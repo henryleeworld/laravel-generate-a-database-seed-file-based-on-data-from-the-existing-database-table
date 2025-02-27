@@ -49,6 +49,7 @@ class DatabaseSeeder extends Seeder
             TaiwanPesticidesTableSeeder::class,
             TaiwanNuclearPowerPlantsTableSeeder::class,
             TaiwanFoodDealersTableSeeder::class,
+            TaiwanMotorVehiclesOfficesTableSeeder::class,
         ]);
     }
 }
