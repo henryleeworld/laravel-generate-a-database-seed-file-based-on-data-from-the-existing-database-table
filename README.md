@@ -1,4 +1,4 @@
-# Laravel 11 反轉現有資料庫內容成資料填充
+# Laravel 12 反轉現有資料庫內容成資料填充
 
 引入 orangehill 的 iseed 套件來擴增反轉現有資料庫內容成資料填充，以便填充測試用的資料至資料庫。
 
@@ -24,5 +24,5 @@ $ php artisan iseed {資料表名稱}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/CUAsSff.png)
+![](https://i.imgur.com/IQ7Vs51.png)
 > 反轉現有資料庫內容

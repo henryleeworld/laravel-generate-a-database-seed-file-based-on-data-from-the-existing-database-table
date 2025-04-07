@@ -8,9 +8,7 @@ use Illuminate\Support\Facades\DB;
 class TaiwanVegetarianRestaurantsTableSeeder extends Seeder
 {
     /**
-     * Auto generated seed file
-     *
-     * @return void
+     * Run the database seeders.
      */
     public function run(): void
     {

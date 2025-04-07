@@ -7,11 +7,8 @@ use Illuminate\Support\Facades\DB;
 
 class TaiwanRadioStationsTableSeeder extends Seeder
 {
-
     /**
-     * Auto generated seed file
-     *
-     * @return void
+     * Run the database seeders.
      */
     public function run(): void
     {
