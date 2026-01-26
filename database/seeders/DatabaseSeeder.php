@@ -31,6 +31,7 @@ class DatabaseSeeder extends Seeder
             TaiwanFinancialInstitutionsTableSeeder::class,
             TaiwanContractedMedicalFacilitiesTableSeeder::class,
             TaiwanCampsitesTableSeeder::class,
+            TaiwanPublicLandfillsTableSeeder::class,
             TaiwanPublicToiletsTableSeeder::class,
             TaiwanEmergencyOperationCentersTableSeeder::class,
             TaiwanEntertainmentSoftwareTableSeeder::class,
