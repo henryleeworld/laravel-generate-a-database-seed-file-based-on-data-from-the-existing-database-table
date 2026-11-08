@@ -56,6 +56,7 @@ class DatabaseSeeder extends Seeder
             TaiwanMotorVehiclesInspectionAgenciesTableSeeder::class,
             TaiwanDrivingSchoolsTableSeeder::class,
             TaiwanIncinerationPlantsTableSeeder::class,
+            TaiwanSportsVenuesTableSeeder::class,
         ]);
     }
 }
