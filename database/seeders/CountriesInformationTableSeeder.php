@@ -13089,4 +13089,3 @@ class CountriesInformationTableSeeder extends Seeder
         ]);
     }
 }
-
